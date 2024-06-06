@@ -25,15 +25,16 @@ FIRST Download
 
 **LOGIN DETAILS** 
 
-for staff login use the following
-work_id: WKUC123
-password:Aluoch
+username: John
+password:1234
 
 for Secretary login
-username: eunicekip
-password: EuniceKip123
+username: Benard
+password: 1234
 
 Admin
-username: NJUGPETER123
-password: Perfection@2024
+username: Naserian
+password: 1234
+
+
 
