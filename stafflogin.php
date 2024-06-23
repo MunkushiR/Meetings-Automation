@@ -101,6 +101,9 @@ div#login-right::before {
   							<label for="password" class="control-label">Password</label>
   							<input type="password" id="password" name="password" value=""   class="form-control">
   						</div>
+
+						  <center><h5><a class="small" href="reset_pass.php">Forgot password?</a></h5> </center> 
+
   						<center><button name="submit" class="btn-sm btn-block btn-wave col-md-4 btn-primary">Login</button></center>
   					</form>
 					 
@@ -120,4 +123,3 @@ div#login-right::before {
 </body>
 	
 </html>
-<!--  -->
