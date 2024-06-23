@@ -8,19 +8,15 @@ FIRST Download
 
 3"Payroll_Management_System"
 
-4. Download the zip file/ download winrar
+4 Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
 
-5. Extract the file and copy "county" folder
+5 Open PHPMyAdmin (http://localhost/phpmyadmin)
 
-6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
+6 Create a database with name county
 
-7. Open PHPMyAdmin (http://localhost/phpmyadmin)
+7 Import county.sql file(given inside the zip package in SQL file folder)
 
-8. Create a database with name county
-
-6. Import county.sql file(given inside the zip package in SQL file folder)
-
-7.Run the script http://localhost/Payroll_Management_System
+8 Run the script http://localhost/Payroll_Management_System
 
 
 **LOGIN DETAILS** 
